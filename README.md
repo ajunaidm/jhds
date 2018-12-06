@@ -1,2 +1,0 @@
-# jhds
-Coursera Data Science
